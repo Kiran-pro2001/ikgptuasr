@@ -1,0 +1,17 @@
+img{
+    border-radius: 50%;
+  }
+  
+  h1{
+    color: #45518D;
+  }
+  h3{
+    color: #D93A20;
+  }
+  
+  table,tr,td{
+    border: 1px solid black;
+  }
+  td{
+    padding: 30px;
+  }
